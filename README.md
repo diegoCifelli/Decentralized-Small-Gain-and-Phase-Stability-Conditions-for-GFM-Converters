@@ -3,7 +3,7 @@
 This repository contains the scripts, data, and supplementary materials used in the paper:
 
 > **“Decentralized Small Gain and Phase Stability Conditions for Grid-Forming Converters: Limitations and Extensions”**  
-> *Authors: Diego Cifelli, Adolfo Anta
+> Authors: Diego Cifelli, Adolfo Anta  
 > Submitted to PCSS 2026.
 
 ---
