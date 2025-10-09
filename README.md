@@ -1,10 +1,10 @@
-# Repository for “Paper Title” (PCSS 2026)
+# Code for “Paper Title”
 
 This repository contains the scripts, data, and supplementary materials used in the paper:
 
 > **“Paper Title”**  
-> *Authors: Diego Cifelli, [Co-authors if any]*  
-> Submitted to the ** PCSS 2026** conference.
+> *Authors: Diego Cifelli, Adolfo Anta
+> Submitted to PCSS 2026.
 
 ---
 
