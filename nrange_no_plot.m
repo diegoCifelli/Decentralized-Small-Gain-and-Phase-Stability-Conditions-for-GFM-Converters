@@ -28,13 +28,13 @@ for t=T
         % Max
         m = max(e);
         ms = find(e==m);
-        vtp = Qk(:,ms)'*Qt;
+        vtp = Qt*Qk(:,ms);
         wA(k)=vtp'*A*vtp;
         k = k+1;
         % Min
         m = min(e);
         ms = find(e==m);
-        vtp = Qk(:,ms)'*Qt;
+        vtp = Qt*Qk(:,ms);
         wA(k)=vtp'*A*vtp;
         k = k+1;
     end    
@@ -42,4 +42,5 @@ end
   plot(wA,'x');
   nreal = real(wA);
   nimag = imag(wA);
+
 end
